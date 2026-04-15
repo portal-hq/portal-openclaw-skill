@@ -4,8 +4,7 @@ This guide walks you through setting up the Portal Wallet skill for your OpenCla
 
 ## Prerequisites
 
-- A Portal account at [app.portalhq.io](https://app.portalhq.io)
-- A Custodian API key (from your Portal dashboard)
+- A Portal account and Custodian API key — reach out to the Portal team at [portalhq.io/get-started](https://www.portalhq.io/get-started) to get onboarded
 - OpenClaw installed with `curl` and `jq` available
 
 ## Step 1: Create a Client

@@ -9,6 +9,10 @@ Private keys are never reconstructed — every signature is a two-party MPC oper
 - [`SKILL.md`](./SKILL.md) — the skill instructions injected into the agent's prompt
 - [`SETUP.md`](./SETUP.md) — step-by-step guide for configuring the skill, including the signature approval webhook
 
+## Get Access
+
+Reach out to the Portal team to get set up with a Custodian API key: [portalhq.io/get-started](https://www.portalhq.io/get-started). Once you have that, the rest of setup is a few curl commands (see [`SETUP.md`](./SETUP.md)).
+
 ## Install
 
 Once published to ClawHub:
